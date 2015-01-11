@@ -1,0 +1,3 @@
+Java Gauntlet Answer Key
+=========================
+This is a repository for answer keys to the <a href="https://docs.google.com/document/d/1RffyAFiclA4X60uJa8jg197yj_cESbniukW7LHQpR6k/">Java Gauntlet</a>. These challenges will give you a quick overview of Java's basic concepts. Thus, it is strongly recommended that all programming team members complete these challenges. If you have any questions about these challenges or about programming in general, feel free to contact me via email or via Skype at brendon.boldt.
