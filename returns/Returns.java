@@ -21,6 +21,7 @@ public class Returns {
         } else {
             System.out.println("Method evaluated to false.");
         }
+
     }
 
     static Integer returnsInteger() {
